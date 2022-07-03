@@ -9,7 +9,8 @@ h1{color: rgb(146, 56, 56);
 text-align: justify;}
 
 .name1{ color: rgb(224, 133, 14);}
-section{display: flex;}
+section{display: flex;
+margin-bottom: 70px;}
 
 .sc1{width: 50%;
 margin: 10px;}
@@ -24,3 +25,7 @@ a{
 }
 .one-sec{background-image: url(images/top-banner.png);
 background-repeat: no-repeat;}
+
+.two-sec{background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;}
